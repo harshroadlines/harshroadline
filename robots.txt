@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://murugeshnadar.github.io/harshroadline/sitemap.xml
